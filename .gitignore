@@ -21,5 +21,3 @@ Thumbs.db
 *.bak
 *.bak_*
 *.tmp
-# 公开版暂不收报告 PDF（原件含内部引用）：
-report/*.pdf
