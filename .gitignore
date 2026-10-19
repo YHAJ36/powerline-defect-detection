@@ -1,0 +1,25 @@
+﻿# 数据集（版权，且体积大）
+dataset/
+# 训练产物与权重
+runs/
+logs/
+weights/
+*.pt
+*.pth
+*.onnx
+*.engine
+# 缓存
+__pycache__/
+*.pyc
+.pytest_cache/
+# 编辑器
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+# 临时
+*.bak
+*.bak_*
+*.tmp
+# 公开版暂不收报告 PDF（原件含内部引用）：
+report/*.pdf
